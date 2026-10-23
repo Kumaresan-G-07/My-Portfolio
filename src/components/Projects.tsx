@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { ExternalLink, Github, MonitorSmartphone, Rocket, Users, Gamepad2, ArrowUpRight } from 'lucide-react';
+import { Github, MonitorSmartphone, Rocket, Users, Gamepad2, ArrowUpRight } from 'lucide-react';
 
 const projects = [
   {

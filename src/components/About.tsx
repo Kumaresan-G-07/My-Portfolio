@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Code2, TestTube2, Palette, Briefcase, GraduationCap, Award } from 'lucide-react';
+import { Code2, TestTube2, Palette, Briefcase } from 'lucide-react';
 
 const About = () => {
   const highlights = [
